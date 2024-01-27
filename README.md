@@ -22,7 +22,7 @@ Software Engineering
 ### About me:
 - 😄 Fun fact: I'm a Java developer before, worked in IBM
 - 🔭 I’m looking to collaborate on commercial projects and startups
-- 📫 How to reach me: [Email](taozhi8833998@gmail.com)
+- 📫 How to reach me: [Email]()
 - 💬 Ask me about `Nothing`
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=taozhi8833998&show_icons=true&theme=onedark">
