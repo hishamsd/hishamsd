@@ -9,12 +9,12 @@ Software Engineering
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
 ### My stack:
-- 5+ years of experience in React, Node.js, Express.js , async, await
+- 5+ years of experience in React, Node.js, Express.js , async, await, .NET
 - 3+ years of experience in Kubernetes
 - 1+ years of experience in Rust
 - 🏆 Chat bots (Telegram, Twitter, Facebook Messenger)
 - ❤️ API, RESTful API, GraphQL
-- HTML/CSS, Javascript
+- HTML/CSS, Javascript, C#, C++, python, Rust, C, php
 - git, docker, CI/CD
 - SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
 - LocalStorage, SessionStorage, JWT
